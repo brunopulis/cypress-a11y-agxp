@@ -1,0 +1,26 @@
+{
+  "name": "cypress-a11y",
+  "version": "1.0.0",
+  "description": "Exemplo para o Agilizei Conference Cypress Experience 2020",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunopulis/cypress-a11y.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunopulis/cypress-a11y/issues"
+  },
+  "homepage": "https://github.com/brunopulis/cypress-a11y#readme",
+  "dependencies": {
+    "axe-core": "^4.1.1",
+    "cypress": "^6.1.0",
+    "cypress-axe": "^0.12.0"
+  }
+}
