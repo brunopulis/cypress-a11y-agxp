@@ -2,6 +2,8 @@
 
 # Agilizei Cypress Conference 2020
 
+Esse repositório foi migrado para o [Codeberg](https://codeberg.org/brunopulis/cypress-a11y-agxp)
+
 > Projeto de exemplo com testes não funcionais de acessibilidade usando o Cypress
 
 ## Dependências
