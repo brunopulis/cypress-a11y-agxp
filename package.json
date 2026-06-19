@@ -20,7 +20,7 @@
   "homepage": "https://github.com/brunopulis/cypress-a11y#readme",
   "dependencies": {
     "axe-core": "^4.1.1",
-    "cypress": "^7.0.0",
+    "cypress": "^9.0.0",
     "cypress-axe": "^0.12.0"
   }
 }
